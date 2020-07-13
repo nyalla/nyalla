@@ -1,5 +1,5 @@
 # Hello world... 
-Myself Naveen , programming geek. I explore the things which I see interesting in technology. Professionally, I am working as a Software Engineer in India. Mostly my work includes of  backend design and implementation which includes Java , Spring boot framework.
+Myself Naveen , programming geek. I explore the things which I see interesting in technology. Professionally, I am working as a Software Engineer in India. I do backend design and implementation which includes Java , Spring boot framework.
 
 ## Find me around the web 🌎
 - Learning and writing on <a href="https://dev.to/nyalla" target="_blank">dev.to/nyalla</a> 🎦 ✍🏾
