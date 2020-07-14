@@ -15,4 +15,3 @@ Myself Naveen , programming geek. I explore the things which I see interesting i
 
 ## How to reach me 📫
 - e-mail: naveenyalla22@gmail.com
-- Sharing updates on <a href="https://www.linkedin.com/in/naveenyalla22/">LinkedIn</a> 💼
