@@ -18,4 +18,4 @@ As a personal open source contribution, I am working on a project in the area of
 [BABE-Bootstrap appllied on BackEnd](https://github.com/nyalla/babe)  [PRs are welcome]
 
 ## How to reach me 📫
-- e-mail: naveenyalla22@gmail.com
+- e-mail: nyallams@outlook.com
